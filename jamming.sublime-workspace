@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"api",
+				"apiKey"
+			],
+			[
+				"sort",
+				"sortBy"
+			],
+			[
+				"hand",
+				"handleLocationChange"
+			],
+			[
+				"handle",
+				"handleTermChange"
+			],
+			[
+				"sor",
+				"sortByOptions"
+			],
+			[
+				"Busi",
+				"Business"
+			],
+			[
+				"bu",
+				"Business"
+			],
+			[
+				"busin",
+				"businesses"
+			],
+			[
+				"busines",
+				"business"
+			],
+			[
+				"Business",
+				"BusinessList"
+			],
+			[
+				"review",
+				"reviewCount"
+			],
+			[
+				"has",
+				"hasSafeTiles"
+			],
+			[
+				"player",
+				"playerBoard"
+			],
+			[
+				"flip",
+				"flipTile"
+			],
+			[
+				"num",
+				"numberOfBombs"
+			],
+			[
+				"number",
+				"numberOfRows"
+			],
+			[
+				"_n",
+				"_numberOfBombs"
+			],
+			[
+				"play",
+				"playerBoard"
+			],
+			[
+				"numb",
+				"numberOfBombs"
+			],
+			[
+				"nu",
+				"numberOfRows"
+			],
+			[
+				"gene",
+				"generateBombBoard"
+			],
+			[
+				"genera",
+				"generatePlayerBoard"
+			],
+			[
+				"n",
+				"numberOfBombs"
+			],
+			[
+				"get",
+				"getNumberOfNeighborBombs"
+			],
+			[
+				"pla",
+				"playerBoard"
+			],
+			[
+				"colu",
+				"columnIndex"
+			],
+			[
+				"row",
+				"rowIndex"
+			],
+			[
+				"neigh",
+				"neighborColumnIndex"
+			],
+			[
+				"neighbor",
+				"neighborColumnIndex"
+			],
+			[
+				"nei",
+				"neighborRowIndex"
+			],
+			[
+				"random",
+				"randomColumnIndex"
+			],
+			[
+				"bomb",
+				"bombBoard"
+			],
+			[
+				"generate",
+				"generateBombBoard"
+			],
+			[
+				"rand",
+				"randomColumnIndex"
+			],
+			[
+				"rando",
+				"randomRowIndex"
+			],
+			[
+				"numberOf",
+				"numberOfColumns"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"align-t",
+				"align-items"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"max-",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tylerrumberger/Sites/jamming",
+		"/Users/tylerrumberger/Sites/jamming/public"
+	],
+	"file_history":
+	[
+		"/Users/tylerrumberger/Sites/ravenous/ravenous/src/index.css",
+		"/Users/tylerrumberger/Sites/jamming/src/index.css",
+		"/Users/tylerrumberger/Desktop/index.html",
+		"/Users/tylerrumberger/Sites/jamming/public/index.html",
+		"/Users/tylerrumberger/Sites/ravenous/ravenous/public/index.html",
+		"/Users/tylerrumberger/Downloads/bwa_u2_ravenous_solution_4/src/util/Yelp.js",
+		"/Users/tylerrumberger/Sites/ravenous/ravenous/src/components/Business/Business.js",
+		"/Users/tylerrumberger/Sites/ravenous/ravenous/src/components/BusinessList/BusinessList.js",
+		"/Users/tylerrumberger/Sites/ravenous/ravenous/src/components/SearchBar/SearchBar.js",
+		"/C/Users/v-tyrum/Downloads/bwa_u2_ravenous_solution_2/bwa_u2_ravenous_solution_2/src/components/BusinessList/BusinessList.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/BusinessList/BusinessList.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/Business/Business.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/App.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/App.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/SearchBar/SearchBar.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/bwa_u2_ravenous_solution_1/src/components/App/App.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/bwa_u2_ravenous_solution_1/src/components/SearchBar/SearchBar.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/Business/Business.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/SearchBar/SearchBar.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/BusinessList/BusinessList.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/public/index.html",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/public/reset.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/minesweeper/src/board.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/SampleReactApp/sample-react-app/src/App.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/SampleReactApp/sample-react-app/package.json",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/minesweeper/src/game.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/minesweeper/package.json",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/minesweeper/.babelrc",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/minesweeper/src/minesweeper.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/minesweeper/minesweeper.sublime-project",
+		"/C/Users/v-tyrum/Desktop/test.js",
+		"/C/Users/v-tyrum/Desktop/test",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Colmar Academy/resources/css/style.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Colmar Academy/index.html",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Colmar Academy/resources/images/course-business.jpg",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Colmar Academy/resources/images/course-computer-art.jpg",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Colmar Academy/resources/colmar-academy-spec.png",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Fotomatic/resources/css/style.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Fotomatic/index.html",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/tortoiseshell-optics/resources/style.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/SecretAgentSupply/index.html",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Fotomatic/fotomatic_spec_landing.png",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Fotomatic/resources/images/feature-2.png",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Fotomatic/resources/images/feature-1.png",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Winter 2017/Codecademy ProIntensive/Projects/Fotomatic/re.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jamming.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
