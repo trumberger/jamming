@@ -12,14 +12,13 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     // Set this.state.searchResults to a dummy object
-    this.state = { searchResults: {
+    this.state = { searchResults: [{
         name: 'Track Name',
         artist: 'Some Person',
         album: 'Best Album Ever',
-        id: '00123'
+        id: '00123'}]
       }
     };
-  }
 
   render() {
     return (
@@ -28,7 +27,6 @@ class App extends React.Component {
         <div className="App">
           <SearchBar />
           <div className="App-playlist">
-            {//Pass this.state.searchRestulst to the SearchResults component}
             <SearchResults searchResults={this.state.searchResults}/>
             <Playlist />
           </div>
