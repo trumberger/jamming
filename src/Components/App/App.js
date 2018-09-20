@@ -12,13 +12,24 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     // Set this.state.searchResults to a dummy object
-    this.state = { searchResults: [{
-        name: 'Track Name',
-        artist: 'Some Person',
-        album: 'Best Album Ever',
-        id: '00123'}]
-      }
-    };
+    this.state = {
+      searchResults: [{
+        id: '1234',
+        name: 'Best song ever',
+        artist: 'Prince',
+        album: 'Purple Rain'
+      }],
+
+      playlistName: 'New Playlist',
+
+      playlistTracks: [{
+        id: '1234',
+        name: 'PL Best song ever',
+        artist: 'PL Prince',
+        album: 'PL Purple Rain'
+      }]
+      };
+    }
 
   render() {
     return (
@@ -28,7 +39,7 @@ class App extends React.Component {
           <SearchBar />
           <div className="App-playlist">
             <SearchResults searchResults={this.state.searchResults}/>
-            <Playlist />
+            <Playlist playlistName={this.state.playlistName} playlistTracks={this.state.playlistTracks}/>
           </div>
         </div>
       </div>
